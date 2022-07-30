@@ -1,0 +1,5 @@
+appdirs==1.4.4
+asgiref==3.5.2
+Django==4.0.6
+django-jsonfield==1.4.1
+
